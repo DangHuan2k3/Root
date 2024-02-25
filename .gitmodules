@@ -1,0 +1,3 @@
+[submodule "MVC_example"]
+	path = MVC_example
+	url = https://github.com/DangHuan2k3/MVC_example.git
